@@ -1,12 +1,5 @@
 # lesson5
-## Network Topologies
+### Home Network Topology
+This diagram provides a comprehensive view of my home network in my Winnipeg apartment. It includes the **Physical Topology**, showing the device placement in the Storage Room, Den, and Living Room with Cat6 cabling details, as well as the **Logical Topology**, detailing the IP addressing schema (192.168.1.0/24) and network connectivity.
 
-### Physical Topology
-This diagram illustrates the physical placement of devices in my Winnipeg apartment (Storage, Den, and Living Room) and the Cat6 cabling used for the laptops.
-
-![Physical Topology](physical-topology.png)
-
-### Logical Topology
-This diagram shows the IP addressing schema (192.168.1.0/24) and the logical connection between the ISP gateway and end devices.
-
-![Logical Topology](logical-topology.png)
+![Home Network Topology](network-topology.png)
